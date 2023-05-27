@@ -10,10 +10,10 @@ summary: Markdown — удобочитаемый язык разметки, ко
 projects: []
 
 # Date published
-date: '2020-04-13T00:00:00Z'
+date: '2020-04-06T00:00:00Z'
 
 # Date updated
-lastmod: '2020-04-13T00:00:00Z'
+lastmod: '2020-04-06T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false

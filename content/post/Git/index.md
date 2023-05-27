@@ -10,10 +10,10 @@ summary: Команды разработчиков пользуются сист
 projects: []
 
 # Date published
-date: '2020-03-23T00:00:00Z'
+date: '2020-03-16T00:00:00Z'
 
 # Date updated
-lastmod: '2020-03-23T00:00:00Z'
+lastmod: '2020-03-16T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
