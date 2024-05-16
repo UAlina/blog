@@ -73,5 +73,5 @@ email: ''
 highlight_name: true
 ---
 
-Alina is a first-year student of the Faculty of Physics, Mathematics and Natural Sciences in the direction of applied computer science. Her interests include IT and art.
+Alina is a first-year student of the Faculty of Physics, Mathematics and Natural Sciences in the direction of applied computer science. Her interests include IT and art
 {style="text-align: justify;"}
